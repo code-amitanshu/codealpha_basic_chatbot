@@ -1,2 +1,18 @@
 # codealpha_basic_chatbot
-A simple rrule  based chatbot developed using python as part of my codeAlpha internship
+
+## Project overview 
+A simple rule based chatbot built using python
+
+## features 
+- responds to "hello"
+- respond to "how are you"
+- exits when user type "bye"
+
+## technologies used
+- python
+
+## concepts used 
+- function
+- if-elif-else
+- while loop
+- input/output
